@@ -1,1 +1,92 @@
-{}
+[
+    {
+        "batch": "1",
+        "team_member": "Anantha Saravanan B",
+        "project_title": "Serving Robot",
+        "evaluations": [
+            {
+                "evaluator": "Dr.K.M.Alaaudeen",
+                "ppt": 3,
+                "presentation": 6,
+                "communication": 4,
+                "questionary": 2,
+                "total": 15
+            }
+        ]
+    },
+    {
+        "batch": "1",
+        "team_member": "Abraham Rajasingh",
+        "project_title": "Serving Robot",
+        "evaluations": [
+            {
+                "evaluator": "Dr.K.M.Alaaudeen",
+                "ppt": 4,
+                "presentation": 8,
+                "communication": 5,
+                "questionary": 4,
+                "total": 21
+            }
+        ]
+    },
+    {
+        "batch": "1",
+        "team_member": "Abishek Jeyaraj J",
+        "project_title": "Serving Robot",
+        "evaluations": [
+            {
+                "evaluator": "Dr.K.M.Alaaudeen",
+                "ppt": 3,
+                "presentation": 7,
+                "communication": 4,
+                "questionary": 3,
+                "total": 17
+            }
+        ]
+    },
+    {
+        "batch": "1",
+        "team_member": "Essakiappan K",
+        "project_title": "Serving Robot",
+        "evaluations": [
+            {
+                "evaluator": "Dr.K.M.Alaaudeen",
+                "ppt": 4,
+                "presentation": 6,
+                "communication": 5,
+                "questionary": 3,
+                "total": 18
+            }
+        ]
+    },
+    {
+        "batch": "1",
+        "team_member": "Edison T",
+        "project_title": "Serving Robot",
+        "evaluations": [
+            {
+                "evaluator": "Dr.K.M.Alaaudeen",
+                "ppt": 4,
+                "presentation": 6,
+                "communication": 4,
+                "questionary": 4,
+                "total": 18
+            }
+        ]
+    },
+    {
+        "batch": "1",
+        "team_member": "Joel B",
+        "project_title": "Serving Robot",
+        "evaluations": [
+            {
+                "evaluator": "Dr.K.M.Alaaudeen",
+                "ppt": 5,
+                "presentation": 6,
+                "communication": 3,
+                "questionary": 4,
+                "total": 18
+            }
+        ]
+    }
+]
